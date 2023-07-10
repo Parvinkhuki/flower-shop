@@ -197,10 +197,41 @@ width: 342px;
 height: 396px;
 margin-bottom: 130px;
 }
+/* latest deal style  */
 .latest-deal{
    background-image: url("./Rectangle 9.png");
-   padding-left: 240px;
-   padding-right: 240px;
+   background-repeat: no-repeat;
+    margin: 240px;
+    margin-right: 240px;
+}
+.get-title{
+    color: #272727;
+    text-align: center;
+   font-size: 40px;
+   font-weight: 800;
+   padding-top: 122px;
+   padding-left: 53px;
+}
+.get-pera{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+margin: auto;
+padding-bottom: 50px;
+padding-top: 20px;
+}
+.input-container{
+   padding: 0px  28px 121px 440px;
+}
+.input-box{
+    width: 500px;
+height:50px;
+border-radius: 8px;
+background: #FFF;
+padding:5px;
+margin-right: 6px;
+border: 0px;
 }
 
 
