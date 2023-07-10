@@ -233,6 +233,36 @@ padding:5px;
 margin-right: 6px;
 border: 0px;
 }
+/* About us  */
 
+.foot{
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
+    width: 100%;
+align-items: center;
+background-color: rgb(255, 244, 244); 
+padding: 20px;
+}
+.footer-title{
+    color:rgb(0, 0, 0);
+    padding-bottom: 20px;
+    font-size: 20px;
 
+}
+.foot{
+    color:rgb(5, 5, 5);
+}
+.foot-list{
 
+   list-style:none;
+   gap:20px;
+   font-size: 15px;
+}
+.footer-list, li{
+    padding-top: 15px;
+
+}
+.logo2{
+    font-size: 40px;
+}
