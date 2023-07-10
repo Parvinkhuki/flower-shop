@@ -195,11 +195,10 @@ text-align: center;
 margin: auto;
 
 }
-.hot-deal-img{
 
-}
 
 /* INSTRAGRAM SECTION   */
+
 
 .insta-box{
     display: flex;
@@ -213,7 +212,10 @@ width: 342px;
 height: 396px;
 margin-bottom: 130px;
 }
+
 /* latest deal style  */
+
+
 .latest-deal{
     display: flex;
     justify-content: center;
@@ -227,7 +229,7 @@ margin-bottom: 130px;
     color: #272727;
     text-align: center;
    font-size: 40px;
-   font-weight: 800;
+   font-weight: bold;
    padding-top: 122px;
    padding-left: 53px;
 }
@@ -238,7 +240,7 @@ font-size: 18px;
 font-weight: 400;
 margin: auto;
 padding-bottom: 50px;
-padding-top: 20px;
+padding-top: 15px;
 }
 .input-container{
   
@@ -249,19 +251,24 @@ padding-top: 20px;
     height: 64px;   
  border-radius: 8px;
  background: #FFF;
-  padding:5px;
- margin-right: 6px;
+  margin-bottom: 121px;
+ margin-left: 287px;
  border: 0px;
+ padding-left: 15px;
+ margin-right: 10px;
+ font-size: 15px;
 }
-/* About us  */
+
+/*  FOOTER 1 STYLE*/
+
 
 .foot{
     display: flex;
     justify-content: space-around;
-align-items: center;
-background-color: rgb(255, 244, 244); 
-height: 400px;
-padding: 20px;
+   align-items: center;
+  background-color: rgb(255, 244, 244); 
+  height: 400px;
+ padding: 20px;
 
 }
 .footer-title{
@@ -284,4 +291,40 @@ padding: 20px;
 }
 .logo2{
     font-size: 40px;
+}
+/* footer 2 style  */
+
+.footer2
+{
+width: 1922px;
+height: 449px;
+background-color: #111010;
+text-align: center;
+margin: auto;
+
+}
+.footer2-para{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+width:30%;
+margin: auto;
+
+padding-bottom: 20px;
+
+}
+.copyrights{
+   color: rgba(255, 255, 255, 0.40);
+   padding-top: 24px;
+}
+.footer2-logo{
+font-size: 48px;
+font-weight: 800;
+padding-top: 128px;
+padding-bottom: 20px;
+
+}
+.spanshop{
+    color: white;
 }
