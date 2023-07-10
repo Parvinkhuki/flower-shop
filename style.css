@@ -238,10 +238,9 @@ border: 0px;
 .foot{
     display: flex;
     justify-content: space-around;
-    height: 400px;
-    width: 100%;
 align-items: center;
 background-color: rgb(255, 244, 244); 
+height: 400px;
 padding: 20px;
 }
 .footer-title{
@@ -261,7 +260,6 @@ padding: 20px;
 }
 .footer-list, li{
     padding-top: 15px;
-
 }
 .logo2{
     font-size: 40px;
