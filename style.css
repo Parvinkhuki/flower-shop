@@ -187,6 +187,7 @@ padding-left: 20px;
 
 .insta-box{
     display: flex;
+    justify-content: center;
     padding-left: 240px;
     padding-right: 240px;
     gap:20px;
