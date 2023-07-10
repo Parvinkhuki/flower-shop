@@ -1,7 +1,7 @@
 *
 {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
 }
 .primary-color{
     color:#E55473; 
@@ -61,12 +61,11 @@ font-size: 50px;
 .banner-text{
     padding-left: 240px;
 }
+
 .banner-tittle{
 color: #272727;
 font-size: 80px;
 font-weight: 800;
-
-
 }
 .banner-img{
     margin-top: 55px;
@@ -119,7 +118,8 @@ padding-bottom: 40px;
 }
 .box-img1{
     margin-top: 110px;
-    margin-left: 70px;}
+    margin-left: 70px;
+}
 
 .feature-boxs1{
 
@@ -166,8 +166,7 @@ padding-left: 20px;
 
 /* HOT DEAL SECTION  */
 
-.hot-deal-container
-{
+.hot-deal-container{
     display: flex;
     align-items: center;
     justify-content:space-around;
@@ -184,8 +183,25 @@ padding-left: 20px;
     padding-right: 429px;
 }
 
-
-
-
-
+/* INSTRAGRAM SECTION   */
+.insta-box{
+    display: flex;
+    padding-left: 240px;
+    padding-right: 240px;
+   
+    gap:20px;
 }
+.insta-boxs{
+width: 342px;
+height: 396px;
+
+margin-bottom: 130px;
+}
+.latest-deal{
+   background-image: url("./Rectangle 9.png");
+   padding-left: 240px;
+   padding-right: 240px;
+}
+
+
+
